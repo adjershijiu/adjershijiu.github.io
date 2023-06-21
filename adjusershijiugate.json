@@ -22,8 +22,16 @@
                 "value":"9dqrpg"
             },
             {
+                "name":"dailyReward",
+                "value":"3v6df6"
+            },
+            {
                 "name":"deposit-success",
                 "value":"u3xne5"
+            },
+            {
+                "name":"enterGame",
+                "value":"nrvwoe"
             },
             {
                 "name":"firstDeposit",
@@ -34,12 +42,36 @@
                 "value":"pz9xxy"
             },
             {
+                "name":"firstrecharge",
+                "value":"b7bmj5"
+            },
+            {
                 "name":"first-recharge-success",
                 "value":"hl2jfy"
             },
             {
+                "name":"login",
+                "value":"miopv2"
+            },
+            {
+                "name":"logout",
+                "value":"xjt99a"
+            },
+            {
+                "name":"recharge",
+                "value":"x61cqq"
+            },
+            {
+                "name":"rechargeClick",
+                "value":"kb3m6i"
+            },
+            {
                 "name":"register",
-                "value":"v6ynub"
+                "value":"h1btfl"
+            },
+            {
+                "name":"registerClick",
+                "value":"j07urs"
             },
             {
                 "name":"register-success",
@@ -48,6 +80,18 @@
             {
                 "name":"signup-success",
                 "value":"m1volw"
+            },
+            {
+                "name":"vipReward",
+                "value":"9x275c"
+            },
+            {
+                "name":"withdrawClick",
+                "value":"m1o9mc"
+            },
+            {
+                "name":"withdrawOrderSuccess",
+                "value":"2st4dv"
             }
         ]
     },
@@ -73,8 +117,16 @@
                 "value":"4bh29y"
             },
             {
+                "name":"dailyReward",
+                "value":"3018h0"
+            },
+            {
                 "name":"deposit-success",
                 "value":"1f2w3a"
+            },
+            {
+                "name":"enterGame",
+                "value":"ar1amf"
             },
             {
                 "name":"firstDeposit",
@@ -85,12 +137,36 @@
                 "value":"tb892h"
             },
             {
+                "name":"firstrecharge",
+                "value":"uo3szo"
+            },
+            {
                 "name":"first-recharge-success",
                 "value":"fgh4k9"
             },
             {
+                "name":"login",
+                "value":"p8fr9s"
+            },
+            {
+                "name":"logout",
+                "value":"f82bcf"
+            },
+            {
+                "name":"recharge",
+                "value":"dow7gv"
+            },
+            {
+                "name":"rechargeClick",
+                "value":"z3db6r"
+            },
+            {
                 "name":"register",
                 "value":"izpvti"
+            },
+            {
+                "name":"registerClick",
+                "value":"b8qel7"
             },
             {
                 "name":"register-success",
@@ -99,6 +175,18 @@
             {
                 "name":"signup-success",
                 "value":"kectv0"
+            },
+            {
+                "name":"vipReward",
+                "value":"igx5gw"
+            },
+            {
+                "name":"withdrawClick",
+                "value":"fdy96o"
+            },
+            {
+                "name":"withdrawOrderSuccess",
+                "value":"5lsu8a"
             }
         ]
     },
